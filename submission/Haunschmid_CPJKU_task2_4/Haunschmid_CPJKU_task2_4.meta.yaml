@@ -118,7 +118,7 @@ system:
 
   # URL to the source code of the system [optional, highly recommended]
   # Reproducibility will be used to evaluate submitted systems.
-  source_code: https://github.com/y-kawagu/dcase2020_task2_baseline
+  source_code: https://github.com/patrick-praher/DCASE2020_T2_Haunschmid_Praher_Public
 
 # System results
 results:
