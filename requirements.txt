@@ -1,0 +1,11 @@
+librosa
+matplotlib
+torch
+sacred
+pymongo
+dnspython
+incense
+seaborn
+torchvision
+dash
+ipywidgets
